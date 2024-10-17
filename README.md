@@ -1,4 +1,4 @@
-# Network Endpoint Actors for Host PCs
+# Network Endpoint Actors for Machines having multiple Network Interfaces
 
 This repository enhances the functionality of the Network Endpoint Actors by making them usable on host PCs with multiple network adapters. The main goal is to address an issue where the original `Listener:Connect.vi` uses a string-to-IP function that does not return the correct adapter address.
 
